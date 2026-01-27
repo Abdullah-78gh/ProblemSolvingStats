@@ -64,7 +64,7 @@ echo Running Update Display Names...
 python scripts/change_display_name.py
 goto after_run
 
-:update_readme
+:update_readme1
 echo Running Update README...
 python scripts/update_readme.py
 goto after_run
