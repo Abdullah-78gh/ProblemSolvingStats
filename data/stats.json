@@ -1,15 +1,15 @@
 {
   "SPOJ": 2,
-  "HackerRank": 13,
-  "CSES": 23,
   "Kattis": null,
+  "CSES": 23,
+  "HackerRank": 13,
   "CodeChef": 79,
+  "LeetCode": 10,
   "Toph": 10,
-  "Codeforces": 1374,
   "AtCoder": 26,
-  "LightOJ": 1,
+  "Codeforces": 1383,
+  "LightOJ": 2,
   "UVa": 0,
-  "VJudge": 271,
-  "HackerEarth": 1,
-  "LeetCode": 10
+  "VJudge": 273,
+  "HackerEarth": 1
 }
