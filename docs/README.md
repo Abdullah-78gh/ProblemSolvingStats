@@ -8,20 +8,20 @@
 
 <!-- DYNAMIC_BADGES_START -->
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-09%20April%202026-77DDBB?style=for-the-badge)
-![Total Problems](https://img.shields.io/badge/Total%20Solved-1900-77DDBB?style=for-the-badge)
+![Total Problems](https://img.shields.io/badge/Total%20Solved-1904-77DDBB?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/Platforms-11-77DDBB?style=for-the-badge)
 <!-- DYNAMIC_BADGES_END -->
 
 <!-- UPDATE_METADATA_START -->
-<p align="center"><sub><strong>Updated:</strong> 09 April 2026 at 12:06:04 AM • Automatic</sub></p>
+<p align="center"><sub><strong>Updated:</strong> 09 April 2026 at 11:57:52 PM • Automatic</sub></p>
 <!-- UPDATE_METADATA_END -->
 
 <!-- AUTO_GENERATED_SECTION_START: STATS_TABLE -->
 | 🎯 Platform | 👤 Profile | ✅ Solved | 📈 Progress | 📅 Updated On | 🔄 Mode |
 |:-------------|:------------:|:-----------:|:-------------|---------------:|:----------:|
-| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16"/> **Codeforces** | [Abdullah_78](https://codeforces.com/profile/Abdullah_78) | **1448** | ![Progress](https://img.shields.io/badge/Progress-76.2%25-AA0000?style=flat-square) | 09 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16"/> **VJudge** | [Md_Abdullah1078](https://vjudge.net/user/Md_Abdullah1078) | **285** | ![Progress](https://img.shields.io/badge/Progress-15.0%25-FF3333?style=flat-square) | 07 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=www.codechef.com&sz=16" width="16" height="16"/> **CodeChef** | [abdullah_78](https://www.codechef.com/users/abdullah_78) | **79** | ![Progress](https://img.shields.io/badge/Progress-4.2%25-FF7777?style=flat-square) | 09 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16"/> **Codeforces** | [Abdullah_78](https://codeforces.com/profile/Abdullah_78) | **1448** | ![Progress](https://img.shields.io/badge/Progress-76.1%25-AA0000?style=flat-square) | 09 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16"/> **VJudge** | [Md_Abdullah1078](https://vjudge.net/user/Md_Abdullah1078) | **289** | ![Progress](https://img.shields.io/badge/Progress-15.2%25-FF3333?style=flat-square) | 09 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=www.codechef.com&sz=16" width="16" height="16"/> **CodeChef** | [abdullah_78](https://www.codechef.com/users/abdullah_78) | **79** | ![Progress](https://img.shields.io/badge/Progress-4.1%25-FF7777?style=flat-square) | 09 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16"/> **AtCoder** | [Abdullah_78](https://atcoder.jp/users/Abdullah_78) | **26** | ![Progress](https://img.shields.io/badge/Progress-1.4%25-FFBB55?style=flat-square) | 09 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=cses.fi&sz=16" width="16" height="16"/> **CSES** | [Abdullah_78](https://cses.fi/user/Abdullah_78/) | **23** | ![Progress](https://img.shields.io/badge/Progress-1.2%25-FFCC88?style=flat-square) | 27 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=www.hackerrank.com&sz=16" width="16" height="16"/> **HackerRank** | [abdullah006946](https://www.hackerrank.com/profile/abdullah006946) | **13** | ![Progress](https://img.shields.io/badge/Progress-0.7%25-FF88FF?style=flat-square) | 27 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
@@ -31,7 +31,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=www.spoj.com&sz=16" width="16" height="16"/> **SPOJ** | [@abdullah_78](https://www.spoj.com/users/@abdullah_78) | **2** | ![Progress](https://img.shields.io/badge/Progress-0.1%25-77DDBB?style=flat-square) | 27 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=www.hackerearth.com&sz=16" width="16" height="16"/> **HackerEarth** | [Abdullah_78](https://www.hackerearth.com/@Abdullah_78/) | **1** | ![Progress](https://img.shields.io/badge/Progress-0.1%25-77EE99?style=flat-square) | 06 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=uhunt.onlinejudge.org&sz=16" width="16" height="16"/> **UVa** | [Abdullah_78](https://uhunt.onlinejudge.org/id/Abdullah_78) | **0** | ![Progress](https://img.shields.io/badge/Progress-0.0%25-CCCCCC?style=flat-square) | 09 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| 🎖️ **TOTAL** | | **1900** | **100%** | 09 April 2026 | |
+| 🎖️ **TOTAL** | | **1904** | **100%** | 09 April 2026 | |
 
 ---
 
@@ -64,9 +64,9 @@
 <!-- AUTO_GENERATED_SECTION_START: LATEST_SOLVE -->
 <div align="center">
 
-| 📅 Last Solved | 🏆 Platform |
+| 📅 Last Solved | 🏆 Platforms |
 |:-------------:|:-------------:|
-| **09 April 2026** | **Codeforces** |
+| **09 April 2026** | **Codeforces** and **VJudge** |
 
 </div>
 
@@ -97,7 +97,7 @@
   </thead>
   <tbody>
     <tr><td><img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>Codeforces</strong></td><td align="right" data-date="2026-04-09">09 April 2026</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>VJudge</strong></td><td align="right" data-date="2026-04-02">02 April 2026</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>VJudge</strong></td><td align="right" data-date="2026-04-09">09 April 2026</td></tr>
     <tr><td><img src="https://www.google.com/s2/favicons?domain=toph.co&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>Toph</strong></td><td align="right" data-date="2026-03-01">01 March 2026</td></tr>
     <tr><td><img src="https://www.google.com/s2/favicons?domain=lightoj.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>LightOJ</strong></td><td align="right" data-date="2026-01-31">31 January 2026</td></tr>
     <tr><td><img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>AtCoder</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
