@@ -13,7 +13,7 @@
 <!-- DYNAMIC_BADGES_END -->
 
 <!-- UPDATE_METADATA_START -->
-<p align="center"><sub><strong>Updated:</strong> 17 April 2026 at 12:07:46 AM • Automatic</sub></p>
+<p align="center"><sub><strong>Updated:</strong> 17 April 2026 at 11:48:33 PM • Automatic</sub></p>
 <!-- UPDATE_METADATA_END -->
 
 <!-- AUTO_GENERATED_SECTION_START: STATS_TABLE -->
@@ -29,7 +29,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16"/> **LeetCode** | [Abdullah_78](https://leetcode.com/u/Abdullah_78/) | **10** | ![Progress](https://img.shields.io/badge/Progress-0.5%25-AAAAFF?style=flat-square) | 17 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=lightoj.com&sz=16" width="16" height="16"/> **LightOJ** | [user-qzkc1qk](https://lightoj.com/user/user-qzkc1qk) | **3** | ![Progress](https://img.shields.io/badge/Progress-0.2%25-90C3DD?style=flat-square) | 17 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=www.spoj.com&sz=16" width="16" height="16"/> **SPOJ** | [@abdullah_78](https://www.spoj.com/users/@abdullah_78) | **2** | ![Progress](https://img.shields.io/badge/Progress-0.1%25-77DDBB?style=flat-square) | 27 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=www.hackerearth.com&sz=16" width="16" height="16"/> **HackerEarth** | [Abdullah_78](https://www.hackerearth.com/@Abdullah_78/) | **1** | ![Progress](https://img.shields.io/badge/Progress-0.1%25-77EE99?style=flat-square) | 16 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=www.hackerearth.com&sz=16" width="16" height="16"/> **HackerEarth** | [Abdullah_78](https://www.hackerearth.com/@Abdullah_78/) | **1** | ![Progress](https://img.shields.io/badge/Progress-0.1%25-77EE99?style=flat-square) | 17 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=uhunt.onlinejudge.org&sz=16" width="16" height="16"/> **UVa** | [Abdullah_78](https://uhunt.onlinejudge.org/id/Abdullah_78) | **0** | ![Progress](https://img.shields.io/badge/Progress-0.0%25-CCCCCC?style=flat-square) | 17 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | 🎖️ **TOTAL** | | **1920** | **100%** | 17 April 2026 | |
 
