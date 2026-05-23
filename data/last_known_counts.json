@@ -3,7 +3,7 @@
     "LeetCode": 10,
     "Toph": 11,
     "CodeChef": 79,
-    "Codeforces": 1516,
+    "Codeforces": 1520,
     "AtCoder": 26,
     "UVa": 0,
     "HackerEarth": 1,
@@ -72,7 +72,7 @@
   },
   "ratings": {
     "Codeforces": {
-      "current": 1265,
+      "current": 1273,
       "max": 1418,
       "rank": "pupil",
       "max_rank": "specialist"
