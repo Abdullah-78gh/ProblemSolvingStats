@@ -3,7 +3,7 @@
     "LeetCode": 12,
     "Toph": 13,
     "CodeChef": 84,
-    "Codeforces": 1833,
+    "Codeforces": 1836,
     "AtCoder": 50,
     "UVa": 0,
     "HackerEarth": 1,
@@ -14,15 +14,15 @@
     "HackerRank": 13
   },
   "dates": {
-    "LeetCode": "2026-09-14",
-    "Toph": "2026-09-14",
-    "CodeChef": "2026-09-14",
-    "Codeforces": "2026-09-14",
-    "AtCoder": "2026-09-14",
-    "UVa": "2026-09-14",
+    "LeetCode": "2026-09-15",
+    "Toph": "2026-09-15",
+    "CodeChef": "2026-09-15",
+    "Codeforces": "2026-09-15",
+    "AtCoder": "2026-09-15",
+    "UVa": "2026-09-15",
     "HackerEarth": "2026-07-23",
     "VJudge": "2026-05-16",
-    "LightOJ": "2026-09-14",
+    "LightOJ": "2026-09-15",
     "SPOJ": "2026-01-27",
     "CSES": "2026-01-27",
     "HackerRank": "2026-01-27"
@@ -45,7 +45,7 @@
     "LeetCode": "2026-09-04",
     "Toph": "2026-08-25",
     "CodeChef": "2026-08-07",
-    "Codeforces": "2026-09-14",
+    "Codeforces": "2026-09-15",
     "AtCoder": "2026-09-11",
     "UVa": "1970-01-01",
     "HackerEarth": "1970-01-01",
@@ -72,7 +72,7 @@
   },
   "ratings": {
     "Codeforces": {
-      "current": 1178,
+      "current": 1136,
       "max": 1418,
       "rank": "newbie",
       "max_rank": "specialist"
